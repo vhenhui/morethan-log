@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "娜兰蒂",
+    name: "免费加盟 400-1133-778",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "三周还你好头发",
+    bio: "客户服务热线 18516594568",
     email: "",
     linkedin: "",
     github: "",
@@ -13,15 +13,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `实战营销博客`,
-      href: "www.nalenti.com",
+      name: `官网`,
+      link: "www.nalenti.com",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "实战",
+    title: "娜兰蒂",
     description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
