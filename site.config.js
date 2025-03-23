@@ -6,15 +6,15 @@ const CONFIG = {
     role: "",
     bio: "三周还你好头发.",
     
-    官网: "www.nalenti.com",
-    免费加盟热线: "400-1133-778",
-    客户服务热线: "18516594568",
+    name: "www.nalenti.com",
+    name: "400-1133-778",
+    name: "18516594568",
   
   },
   projects: [
     {
-      name: `morethan-log`,
-      href: "https://github.com/morethanmin/morethan-log",
+      name: `实战营销博客`,
+      href: "www.nalenti.com",
     },
   ],
   // blog setting (required)
