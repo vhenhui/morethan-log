@@ -20,7 +20,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "娜兰蒂",
-    description: "welcome to morethan-log!",
+    description: "welcome to nalenti!",
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
