@@ -1,14 +1,15 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "nalenti",
+    name: "娜兰蒂",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "娜兰蒂 三周还你好头发.",
-    email: "vhenhui@163.com",
-    linkedin: "www.nalenti.com",
-    github: "400-1133-778",
-    instagram: "",
+    role: "",
+    bio: "三周还你好头发.",
+    
+    官网: "www.nalenti.com",
+    免费加盟热线: "400-1133-778",
+    客户服务热线: "18516594568",
+  
   },
   projects: [
     {
@@ -69,7 +70,7 @@ const CONFIG = {
     },
   },
   isProd: process.env.VERCEL_ENV === "production", // distinguish between development and production environment (ref: https://vercel.com/docs/environment-variables#system-environment-variables)
-  revalidateTime: 21600 * 7, // revalidate time for [slug], index
+  revalidateTime: 21 * 7, // revalidate time for [slug], index
 }
 
 module.exports = { CONFIG }
