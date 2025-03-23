@@ -14,7 +14,7 @@ const CONFIG = {
   projects: [
     {
       name: `官网`,
-      link: "www.nalenti.com",
+      href: "www.nalenti.com",
     },
   ],
   // blog setting (required)
