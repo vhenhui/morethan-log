@@ -4,11 +4,11 @@ const CONFIG = {
     name: "娜兰蒂",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
-    bio: "三周还你好头发.",
-    
-    name: "www.nalenti.com",
-    name: "400-1133-778",
-    name: "18516594568",
+    bio: "三周还你好头发",
+    email: "",
+    linkedin: "",
+    github: "",
+    instagram: "",
   
   },
   projects: [
