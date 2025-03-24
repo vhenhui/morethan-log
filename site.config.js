@@ -1,11 +1,11 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "免费加盟 400-1133-778",
+    name: "三周还你好头发",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "客户服务热线 18516594568",
-    email: "",
+    email: "vhenhui@163.com",
     linkedin: "",
     github: "",
     instagram: "",
@@ -13,8 +13,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `官网`,
-      href: "www.nalenti.com",
+      name: `实战营销研修班`,
+      href: "",
     },
   ],
   // blog setting (required)
@@ -26,8 +26,8 @@ const CONFIG = {
 
   // CONFIG configration (required)
   link: "study.nalenti.com",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  since: 2009, // If leave this empty, current year will be used.
+  lang: "zh-CN", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "study.nalenti.com", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
